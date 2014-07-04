@@ -1,4 +1,4 @@
-MyORM
+MyApp
 =====
 
 Testing
