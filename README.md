@@ -1,4 +1,4 @@
 MyApp
 =====
 
-Testing
+Testing.
